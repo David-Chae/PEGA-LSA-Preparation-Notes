@@ -43,4 +43,17 @@ Constellation is a new UI technology in Pega Infinity™, designed to accelerate
 
 ---
 
+Which two of the following statements about Constellation are true? (Choose Two)
+
+***
+Constellation represents a shift towards customization.
+A key benefit of using the Constellation UI architecture with the Constellation design system is its faster time-to-value result. 
+Correct answer.
+Correct. Constellation UI architecture with the Constellation design system offers exceptional performance, including a smaller network payload, faster server response time and loading times, and more. With this improved performance, both citizen developers and professional developers can focus less on the lower-value aspects of the application and more on the core business logic and workflow of the application, the deeper UX. 
+The Constellation architecture includes a client-side engine to orchestrate Pega Platform application logic and data only when using the Constellation design system.
+The Constellation architecture includes a client-side engine to orchestrate Pega Platform application logic and data with any front-end design system.
+Correct answer.
+Correct. Constellation is Pega's newest UI architecture. While it is designed to work with the Constellation design system for the best experience for employee-facing applications, Constellation can orchestrate Pega Platform application logic and data with any front-end design system.
+***
+
 Would you like this summary formatted into a slide deck or visual diagram for easier sharing or presentation?
